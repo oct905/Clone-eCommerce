@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Smartphone X100",
+    "slug": "smartphone-x100",
+    "description": "A high-end smartphone with advanced features and sleek design.",
+    "excerpt": "Top-notch smartphone with excellent camera and performance.",
+    "price": 24388888,
+    "tags": ["electronics", "smartphone", "tech"],
+    "thumbnail": "https://dlcdnwebimgs.asus.com/gain/1F082CCC-7F01-4057-B250-4B81B1651877",
+    "images": [
+      "https://dlcdnwebimgs.asus.com/gain/1F082CCC-7F01-4057-B250-4B81B1651877",
+      "https://id.store.asus.com/media/catalog/product/b/l/black_2.png?width=439&height=439&store=id_ID&image-type=image"
+    ],
+    "createdAt": "2024-07-01T12:00:00Z",
+    "updatedAt": "2024-07-01T12:00:00Z"
+  },
+  {
+    "name": "Laptop Pro 15",
+    "slug": "laptop-pro-15",
+    "description": "A powerful laptop designed for professionals and creatives.",
+    "excerpt": "High-performance laptop with a stunning display and fast processing.",
+    "price": 43740000,
+    "tags": ["electronics", "laptop", "work"],
+    "thumbnail": "https://down-id.img.susercontent.com/file/id-11134201-23020-renes4is9ynvc9",
+    "images": [
+      "https://down-id.img.susercontent.com/file/id-11134201-23020-renes4is9ynvc9",
+      "https://down-id.img.susercontent.com/file/id-11134201-23020-zj6888is9ynv63"
+    ],
+    "createdAt": "2024-06-15T08:00:00Z",
+    "updatedAt": "2024-06-15T08:00:00Z"
+  },
+  {
+    "name": "Wireless Headphones Z",
+    "slug": "wireless-headphones-z",
+    "description": "Comfortable wireless headphones with high-quality sound.",
+    "excerpt": "Experience music with crystal clear sound and deep bass.",
+    "price": 329000,
+    "tags": ["electronics", "audio", "headphones"],
+    "thumbnail": "https://dynamic.zacdn.com/UI4SuReBNuCMg6_FWG6qp3V2TQM=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/nokia-audio-6377-4798124-1.jpg",
+    "images": [
+      "https://dynamic.zacdn.com/UI4SuReBNuCMg6_FWG6qp3V2TQM=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/nokia-audio-6377-4798124-1.jpg",
+      "https://dynamic.zacdn.com/-HPh0IOLjovbWwKgQqo5YXYAG2g=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/nokia-audio-6378-4798124-2.jpg"
+    ],
+    "createdAt": "2024-05-20T10:00:00Z",
+    "updatedAt": "2024-05-20T10:00:00Z"
+  },
+  {
+    "name": "4K Ultra HD TV",
+    "slug": "4k-ultra-hd-tv",
+    "description": "A stunning 4K Ultra HD TV with vibrant colors and smart features.",
+    "excerpt": "Enjoy movies and games in breathtaking 4K resolution.",
+    "price": 6292778,
+    "tags": ["electronics", "tv", "home"],
+    "thumbnail": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-21144662/sony_sony_bravia_kd-43x75_4k_ultra_hd_smart_android_led_tv_43_inch_full01_ebaqyts6.jpg",
+    "images": [
+      "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-21144662/sony_sony_bravia_kd-43x75_4k_ultra_hd_smart_android_led_tv_43_inch_full01_ebaqyts6.jpg",
+      "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-21144662/sony_sony_bravia_kd-43x75_4k_ultra_hd_smart_android_led_tv_43_inch_full02_gdoo1xmr.jpg"
+    ],
+    "createdAt": "2024-04-10T14:00:00Z",
+    "updatedAt": "2024-04-10T14:00:00Z"
+  },
+  {
+    "name": "Bluetooth Speaker Max",
+    "slug": "bluetooth-speaker-max",
+    "description": "Portable Bluetooth speaker with rich sound and long battery life.",
+    "excerpt": "Take your music anywhere with this powerful Bluetooth speaker.",
+    "price": 6160470,
+    "tags": ["electronics", "audio", "speaker"],
+    "thumbnail": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/101/MTA-152805448/brd-20047_speaker-portable-baretone-max15hb-15-inc-inch-bluetooth-meeting-15hb_full03-2f2bfbf4.jpg",
+    "images": [
+      "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/101/MTA-152805448/brd-20047_speaker-portable-baretone-max15hb-15-inc-inch-bluetooth-meeting-15hb_full03-2f2bfbf4.jpg",
+      "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/101/MTA-152805448/brd-20047_speaker-portable-baretone-max15hb-15-inc-inch-bluetooth-meeting-15hb_full02-8b8c779e.jpg"
+    ],
+    "createdAt": "2024-03-05T11:00:00Z",
+    "updatedAt": "2024-03-05T11:00:00Z"
+  },
+  {
+    "name": "Gaming Console Z5",
+    "slug": "gaming-console-z5",
+    "description": "Next-gen gaming console with stunning graphics and immersive gameplay.",
+    "excerpt": "Experience gaming like never before with the Z5 console.",
+    "price": 6600000,
+    "tags": ["electronics", "gaming", "console"],
+    "thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/13/0c446ad6-2eb1-4050-bf82-2bab018c8643.jpg",
+    "images": [
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/13/0c446ad6-2eb1-4050-bf82-2bab018c8643.jpg",
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/13/9a8d4c73-5552-46be-9a25-8160ffa652c5.jpg"
+    ],
+    "createdAt": "2024-02-20T15:00:00Z",
+    "updatedAt": "2024-02-20T15:00:00Z"
+  },
+  {
+    "name": "Smartwatch Pro 3",
+    "slug": "smartwatch-pro-3",
+    "description": "Advanced smartwatch with fitness tracking and health monitoring features.",
+    "excerpt": "Stay connected and track your fitness with the Pro 3 smartwatch.",
+    "price": 41900,
+    "tags": ["electronics", "wearable", "fitness"],
+    "thumbnail": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/10/20/c5ca6f24-e0fd-4b48-adb4-983b3298ca1c.jpg",
+    "images": [
+      "https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/10/20/c5ca6f24-e0fd-4b48-adb4-983b3298ca1c.jpg",
+      "https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/10/20/8095b8a8-56df-4086-a5cc-a97114855c41.jpg"
+    ],
+    "createdAt": "2024-01-15T09:00:00Z",
+    "updatedAt": "2024-01-15T09:00:00Z"
+  },
+  {
+    "name": "Fitness Tracker X",
+    "slug": "fitness-tracker-x",
+    "description": "Compact fitness tracker with heart rate monitoring and GPS.",
+    "excerpt": "Track your fitness goals and monitor your health with the X tracker.",
+    "price": 344178,
+    "tags": ["electronics", "wearable", "health"],
+    "thumbnail": "https://m.media-amazon.com/images/I/71g+ibL1p+L._AC_SX679_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71g+ibL1p+L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61YwaovfYFL._AC_SX679_.jpg"
+    ],
+    "createdAt": "2024-01-05T12:00:00Z",
+    "updatedAt": "2024-01-05T12:00:00Z"
+  },
+  {
+    "name": "Wireless Earbuds Y",
+    "slug": "wireless-earbuds-y",
+    "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+    "excerpt": "Enjoy your music with noise-free sound and comfortable fit.",
+    "price": 499000,
+    "tags": ["electronics", "audio", "earbuds"],
+    "thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/23/304dd8c5-8fc9-49c9-b7b8-a5b50c5fea8b.jpg",
+    "images": [
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/23/304dd8c5-8fc9-49c9-b7b8-a5b50c5fea8b.jpg",
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/23/0a8d2061-175e-4f2b-828d-c2f8dcee04c5.jpg"
+    ],
+    "createdAt": "2023-12-15T10:00:00Z",
+    "updatedAt": "2023-12-15T10:00:00Z"
+  },
+  {
+    "name": "Portable Power Bank",
+    "slug": "portable-power-bank",
+    "description": "High-capacity portable power bank with fast charging capabilities.",
+    "excerpt": "Keep your devices charged on the go with this powerful power bank.",
+    "price": 229000,
+    "tags": ["electronics", "accessories", "battery"],
+    "thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/28/b9ae05f9-7613-4c59-8396-986c6f684675.jpg",
+    "images": [
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/28/b9ae05f9-7613-4c59-8396-986c6f684675.jpg",
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/10/6e108b11-4f41-423e-acb9-9b20eb037144.jpg"
+    ],
+    "createdAt": "2023-11-20T14:00:00Z",
+    "updatedAt": "2023-11-20T14:00:00Z"
+  },
+  {
+    "name": "Digital Camera D3500",
+    "slug": "digital-camera-d3500",
+    "description": "Compact digital camera with high resolution and versatile features.",
+    "excerpt": "Capture stunning photos and videos with the D3500 camera.",
+    "price": 1500000,
+    "tags": ["electronics", "camera", "photography"],
+    "thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/19/d013298f-60bd-4e32-a16d-226f9b208a2b.jpg",
+    "images": [
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/19/d013298f-60bd-4e32-a16d-226f9b208a2b.jpg",
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/1/19/cbd89c3d-f9d8-4a13-9019-c49dee880248.jpg"
+    ],
+    "createdAt": "2023-10-05T13:00:00Z",
+    "updatedAt": "2023-10-05T13:00:00Z"
+  },
+  {
+    "name": "VR Headset Pro",
+    "slug": "vr-headset-pro",
+    "description": "Immersive VR headset with high resolution and wide field of view.",
+    "excerpt": "Experience virtual reality like never before with the Pro VR headset.",
+    "price": 8198455,
+    "tags": ["electronics", "vr", "gaming"],
+    "thumbnail": "https://m.media-amazon.com/images/I/71j-U6Z2MkL._SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71j-U6Z2MkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61I66N7SE6L._SL1500_.jpg"
+    ],
+    "createdAt": "2023-09-25T11:00:00Z",
+    "updatedAt": "2023-09-25T11:00:00Z"
+  },
+  {
+    "name": "Smart Home Hub",
+    "slug": "smart-home-hub",
+    "description": "Central hub for managing your smart home devices and automations.",
+    "excerpt": "Control your smart home devices with ease using this hub.",
+    "price": 1349000,
+    "tags": ["electronics", "home", "automation"],
+    "thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/5/28/87c47156-0ad6-46d9-80cc-81986e4afc18.png",
+    "images": [
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/5/28/87c47156-0ad6-46d9-80cc-81986e4afc18.png",
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/5/28/f550fb6b-0d0b-4065-a2b5-eb8fae0c9a73.png"
+    ],
+    "createdAt": "2023-08-15T09:00:00Z",
+    "updatedAt": "2023-08-15T09:00:00Z"
+  },
+  {
+    "name": "Smart Thermostat X",
+    "slug": "smart-thermostat-x",
+    "description": "Energy-efficient smart thermostat with remote control capabilities.",
+    "excerpt": "Optimize your home's temperature and save energy with this thermostat.",
+    "price": 2787366,
+    "tags": ["electronics", "home", "thermostat"],
+    "thumbnail": "https://m.media-amazon.com/images/I/51YWnoWYbkL._AC_SL1500_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51YWnoWYbkL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/5198Ux3FzZL._AC_SL1001_.jpg"
+    ],
+    "createdAt": "2023-07-05T12:00:00Z",
+    "updatedAt": "2023-07-05T12:00:00Z"
+  },
+  {
+    "name": "Robot Vacuum Cleaner",
+    "slug": "robot-vacuum-cleaner",
+    "description": "Automatic robot vacuum cleaner with smart navigation and powerful suction.",
+    "excerpt": "Keep your home clean effortlessly with this smart vacuum cleaner.",
+    "price": 94327000,
+    "tags": ["electronics", "home", "cleaning"],
+    "thumbnail": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2024/6/6/116f491f-97a9-483e-9927-a89a9224dd6a.jpg",
+    "images": [
+      "https://images.tokopedia.net/img/cache/900/hDjmkQ/2024/6/6/116f491f-97a9-483e-9927-a89a9224dd6a.jpg",
+      "https://images.tokopedia.net/img/cache/900/hDjmkQ/2024/6/6/c843d29a-940b-426e-861c-2b19e2c882ba.jpg"
+    ],
+    "createdAt": "2023-06-10T10:00:00Z",
+    "updatedAt": "2023-06-10T10:00:00Z"
+  },
+  {
+    "name": "E-Reader Pro",
+    "slug": "e-reader-pro",
+    "description": "High-resolution e-reader with long battery life and adjustable lighting.",
+    "excerpt": "Read your favorite books with the E-Reader Pro, anytime, anywhere.",
+    "price": 1990000,
+    "tags": ["electronics", "books", "reading"],
+    "thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/14/c0983ed4-72af-4add-8324-f88053dd5640.jpg",
+    "images": [
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/14/c0983ed4-72af-4add-8324-f88053dd5640.jpg",
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/14/4d53c27e-44f2-42e8-8f59-803050976857.jpg"
+    ],
+    "createdAt": "2023-05-20T15:00:00Z",
+    "updatedAt": "2023-05-20T15:00:00Z"
+  },
+  {
+    "name": "Noise Cancelling Headphones",
+    "slug": "noise-cancelling-headphones",
+    "description": "Premium noise cancelling headphones with superior sound quality.",
+    "excerpt": "Immerse yourself in your music with these noise cancelling headphones.",
+    "price": 4099145,
+    "tags": ["electronics", "audio", "headphones"],
+    "thumbnail": "https://m.media-amazon.com/images/I/51Ltm3tbH2L._AC_SL1200_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/51Ltm3tbH2L._AC_SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61lGWbYI8fL._AC_SL1200_.jpg"
+    ],
+    "createdAt": "2023-04-10T12:00:00Z",
+    "updatedAt": "2023-04-10T12:00:00Z"
+  },
+  {
+    "name": "Action Camera 4K",
+    "slug": "action-camera-4k",
+    "description": "Durable action camera with 4K video recording and waterproof design.",
+    "excerpt": "Capture your adventures in stunning 4K with this action camera.",
+    "price": 834800,
+    "tags": ["electronics", "camera", "action"],
+    "thumbnail": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/7/26/f6796ddf-e868-497f-9209-ebcf4fb4e5fb.jpg",
+    "images": [
+      "https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/7/26/f6796ddf-e868-497f-9209-ebcf4fb4e5fb.jpg",
+      "https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/7/26/6bb52c25-1245-4a95-9e9b-f6a5950b98a9.jpg"
+    ],
+    "createdAt": "2023-03-05T14:00:00Z",
+    "updatedAt": "2023-03-05T14:00:00Z"
+  },
+  {
+    "name": "Tablet Pro 12",
+    "slug": "tablet-pro-12",
+    "description": "Large-screen tablet with powerful performance and vibrant display.",
+    "excerpt": "Work and play on the go with the versatile Pro 12 tablet.",
+    "price": 1799000,
+    "tags": ["electronics", "tablet", "mobile"],
+    "thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/19/97810b2b-7aed-4e03-86f0-f96a179ec9b3.jpg",
+    "images": [
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/19/97810b2b-7aed-4e03-86f0-f96a179ec9b3.jpg",
+      "https://images.tokopedia.net/img/cache/900/VqbcmM/2024/3/21/b6582afe-f714-44c6-b7b1-c83d2e105186.jpg"
+    ],
+    "createdAt": "2023-02-20T11:00:00Z",
+    "updatedAt": "2023-02-20T11:00:00Z"
+  },
+  {
+    "name": "Electric Scooter X2",
+    "slug": "electric-scooter-x2",
+    "description": "Compact electric scooter with long battery life and fast charging.",
+    "excerpt": "Travel effortlessly with the X2 electric scooter.",
+    "price": 6908700,
+    "tags": ["electronics", "transport", "scooter"],
+    "thumbnail": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/100/MTA-160759601/brd-44261_xiaomi-mi-smart-electric-scooter-skuter-elektrik-1s_full02-bddac81b.jpg",
+    "images": [
+      "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/100/MTA-160759601/brd-44261_xiaomi-mi-smart-electric-scooter-skuter-elektrik-1s_full02-bddac81b.jpg",
+      "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/100/MTA-160759601/brd-44261_xiaomi-mi-smart-electric-scooter-skuter-elektrik-1s_full01-54b7b5f2.jpg"
+    ],
+    "createdAt": "2023-01-05T13:00:00Z",
+    "updatedAt": "2023-01-05T13:00:00Z"
+  },
+  {
+    "name": "Smart Refrigerator",
+    "slug": "smart-refrigerator",
+    "description": "High-tech refrigerator with smart features and large capacity.",
+    "excerpt": "Keep your food fresh with this smart, energy-efficient refrigerator.",
+    "price": 63932833,
+    "tags": ["electronics", "home", "kitchen"],
+    "thumbnail": "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/06292022/rf28r7551sg/RF28R7551SG_04_Black_SCOM.jpg?$product-details-jpg$",
+    "images": [
+      "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/06292022/rf28r7551sg/RF28R7551SG_04_Black_SCOM.jpg?$product-details-jpg$",
+      "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/4-door-french-door/pdp/rf28r7551sg-aa/gallery/RF28R7551SG-AA-012-Front-Open-With-Food-Black.jpg?$product-details-jpg$"
+    ],
+    "createdAt": "2022-12-15T12:00:00Z",
+    "updatedAt": "2022-12-15T12:00:00Z"
+  }
+]
